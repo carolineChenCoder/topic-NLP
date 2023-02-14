@@ -1,4 +1,9 @@
 ### NLU
 ### NLG-natural language generator
-supervised learning
-reinforcement learning
+Supervised learning
+Reinforcement learning
+
+
+chatGPT is based on GPT-3. But it solve the misalign problem by using human feedback to guid the learning process with the goal of mitigating the model's
+misalignment issues. The specific technique uses is called Reinforcement learning from Human feedback.
+Reinforcement Learning from Human Feedback
