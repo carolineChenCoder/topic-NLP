@@ -18,3 +18,6 @@ Reinforcement Learning from Human Feedback.
 - reinforcement learning
 - reward model
 - Proximal Policy OPtimization
+
+## New idea in chatgpt
+- supervised learning vs unsupervised learning
