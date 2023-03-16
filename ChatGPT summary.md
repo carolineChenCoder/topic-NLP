@@ -1,3 +1,8 @@
+### Mar 16 gpt-4###
+alignment
+---
+### Feb 25 chatgpt###
+
 ### NLU-natural language understanding
 
 ### NLG-natural language generator
